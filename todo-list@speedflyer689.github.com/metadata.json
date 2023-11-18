@@ -1,0 +1,8 @@
+{
+  "name": "Todo list",
+  "description": "Adds a todo list to the notification panel",
+  "uuid": "todo-list@speedflyer689.github.com",
+  "shell-version": [
+    "3.38"
+  ]
+}
