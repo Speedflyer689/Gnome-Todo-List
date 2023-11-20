@@ -141,6 +141,7 @@ class Extension {
     
     disable() {
         this.panelButton?.destroy();
+        this.panelButtonLayout = null;
         this.title = null;
         this.taskList = null;
         this.entryLabel = null;
